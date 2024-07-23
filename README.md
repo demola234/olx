@@ -38,8 +38,8 @@ This is a clone of the OLX website. It is a platform where users can post items 
 - Enjoy!
 
 ## Screenshots
-![Screenshot 1](https://github.com/demola234/olx/screenshots/screenshot1.png)
-![Screenshot 2](https://github.com/demola234/olx/screenshots/screenshot2.png)
+![Screenshot 1](https://github.com/demola234/Olx/blob/main/screenshots/screenshot1.png)
+![Screenshot 2](https://github.com/demola234/Olx/blob/main/screenshots/screenshot2.png)
 
 ## Author
 - Ademola Kolawole
