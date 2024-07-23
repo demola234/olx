@@ -1,17 +1,45 @@
-# ecommerce
+# OLX CLONE 
+## Description
+This is a clone of the OLX website. It is a platform where users can post items they want to sell and other users can view the items and contact the seller if they are interested in buying the item. The application is built with flutter and firebase.
 
-A new Flutter project.
+## Features
+- Users can sign up and login
+- Users can post items they want to sell
+- Users can view items posted by other users
+- Users can contact the seller of an item
+- Users can view their profile
+- Users can edit their profile
+- Users can view items they have posted
+- Users can delete items they have posted
+- Users can search for items
+- Users can view items by category
+- Users can view items by location
+- Users can view items by price
+- Users can view items by date posted
+- Users can view items by seller
+- Users can view items by buyer
+- Users can view items by status
+- Users can view items by rating
+- Users can view items by reviews
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Technologies
+- Flutter
+- Firebase
+- Provider
+- GetIt
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+- Clone the repository
+- Run `flutter pub get` to install dependencies
+- Create a firebase project and add the google-services.json file to the android/app directory
+- Run the app on an emulator or physical device
+- Sign up and start using the app
+- Enjoy!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
+![Screenshot 1](https://github.com/demola234/olx/screenshots/screenshot1.png)
+![Screenshot 2](https://github.com/demola234/olx/screenshots/screenshot2.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Olx
+## Author
+- Ademola Kolawole
